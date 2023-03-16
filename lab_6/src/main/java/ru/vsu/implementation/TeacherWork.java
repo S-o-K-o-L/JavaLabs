@@ -33,7 +33,7 @@ public class TeacherWork implements TeacherService {
                                 .add(student);
                     }
                 });
-        teacherStudents.values().stream()
+        teacherStudents.values()
                 .forEach(list ->
                         list.sort(Comparator.comparing(Student::getLastName)));
         return teacherStudents;

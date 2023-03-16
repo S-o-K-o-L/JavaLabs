@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.group9</groupId>
+    <groupId>javalabs</groupId>
     <artifactId>java-6-task</artifactId>
     <version>1.0</version>
 
